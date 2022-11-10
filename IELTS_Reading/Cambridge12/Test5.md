@@ -71,5 +71,114 @@ The classic cork stopper does have several advantages, however. Firstly, its ==t
 
 ## Passage 2
 
+**COLLECTING AS A HOBBY**
+Collecting must be one of the most varied of human activities, and it's one that many of us psychologists find fascinating. Many forms of collecting have been dignified with a technical name: an archtophilist collects teddy bears, a philatelist collects postage stamps, and a deltiologist collects postcards. Amassing hundreds or even thousands of postcards, chocolate wrappers or whatever, takes time, energy and money that could surely be put to much more productive use. And yet there are millions of collectors around the world. Why do they do it?
+
+There are the people who collect because they want to ==make money== - this could be called an instrumental reason for collecting; that is, collecting as a means to an end. They'll look for, say, antiques that they can buy cheaply and expect to be able to sell at a profit. But there may well be a ==psychological element==, too - buying cheap and selling dear can give the collector a sense of triumph. And as selling online is so easy, more and more people are joining in.
+
+Many collectors collect to develop their ==social life==, attending meetings of a group of collectors and exchanging information on items. This is a variant on joining a bridge club or a gym, and similarly brings them into contact with like-minded people.
+
+Another motive for collecting is the desire to ==find something special, or a particular example of the collected item==, such as a rare early recording by a particular singer. Some may spend their whole lives in a hunt for this. Psychologically, this can give a purpose to a life that otherwise feels aimless. There is a danger, though, that if the individual is ever lucky enough to find what they're looking for, rather than celebrating their success, they may feel empty, now that the goal that drove them on has gone.
+
+If you think about collecting postage stamps, another potential reason for it - or, perhaps, a result of collecting - is its ==educational value==. Stamp collecting opens a window to other countries, and to the plants, animals, or famous people shown on their stamps. Similarly, in the 19th century, many collectors amassed fossils, animals and plants from around the globe, and their collections provided a vast amount of information about the natural world. Without those collections, our understanding would be greatly inferior to what it is.
+
+In the past - and nowadays, too, though to a lesser extent - a popular form of collecting, particularly among boys and men, was ==trainspotting==. This might involve trying to see every locomotive of a particular type, using published data that identifies each one, and ticking off each engine as it is seen. Trainspotters exchange information, these days often by mobile phone, so they can work out where to go to, to see a particular engine. As a by­product, many practitioners of the hobby become very knowledgeable about railway operations, or the technical specifications of different engine types.
+
+Similarly, people who ==collect dolls== may go beyond simply enlarging their collection, and develop an interest in the way that dolls are made, or the materials that are used. These have changed over the centuries from the wood that was standard in 16th century Europe, through the wax and porcelain of later centuries, to the plastics of today's dolls. Or collectors might be inspired to study how dolls reflect notions of what children like, or ought to like.
+
+Not all collectors are interested in learning from their hobby, though, so what we might call a psychological reason for ==collecting is the need for a sense of control===, perhaps as a way of dealing with insecurity. Stamp collectors, for instance, arrange their stamps in albums, usually very neatly, organising their collection according to certain commonplace principles - perhaps by country in alphabetical order, or grouping stamps by what they depict - people, birds, maps, and so on.
+
+One reason, conscious or not, for what someone chooses to collect is to ==show the collector's individualism==. Someone who decides to collect something as unexpected as dog collars, for instance, may be conveying their belief that they must be interesting themselves. And believe it or not, there is at least one dog collar museum in existence, and it grew out of a personal collection.
+
+Of course, all hobbies give pleasure, but the common factor in collecting is usually ==passion: pleasure is putting it far too mildly==. More than most other hobbies, collecting can be totally engrossing, and can give a strong sense of personal fulfilment. To non-collectors it may appear an eccentric, if harmless, way of spending time, but potentially, collecting has a lot going for it.
+
+### Main Idea
+
+* psychologists find collecting fascinating
+* collect to make money
+* collect to develop their social life
+* desire to find something special
+* educational value
+* trainspotters
+* dolls
+* collect-need a sense of control
+* show collector's individualism
+* passion
+
+### Words and Sentences
+
+* **填空首字母大写**，词一般不变，直接填
+* put it too far mildly
+
+### Question 14-21
+
+### Question 22-26
+
 ## Passage 3
 
+**What’s the purpose of gaining knowledge?**
+
+**27**
+
+A ‘I would found an institution where ==any person can find instruction in any subject.==’ That was the founder’s motto for Cornell University, and it seems an apt characterization of the different university, also in the USA, where I currently teach philosophy. A student can prepare for a career in resort management, engineering, interior design, accounting, music, law enforcement, you name it. But what would the founders of these two institutions have thought of a course called 'Arson for Profit’? I kid you not: we have it on the books. Any undergraduates who have met the academic requirements can sign up for the course in our program in 'fire science'.
+
+**28**
+
+B Naturally, the course is intended for prospective arson investigators, who can learn all the tricks of the trade for detecting whether a fire was deliberately set, discovering who did it, and establishing a chain of evidence for effective prosecution in a court of law. But wouldn’t this also be the perfect course for prospective arsonists to sign up for? My point is not to criticize academic programs in fire science: they are highly welcome as part of the increasing professionalization of this and many other occupations. However, it’s not unknown for a firefighter to torch a building. This example suggests how ==dishonest and illegal behavior, with the help of higher education, can creep into every aspect of public and business life==.
+
+**29**
+
+C- I realized this anew when I was invited to speak before a class in marketing, which is another of our degree programs. The regular instructor is a colleague who appreciates the kind of ethical perspective I can bring as a philosopher. There are endless ways I could have approached this assignment, but I took my cue from the title of the course: ‘Principles of Marketing’. It made me think to ask the students, ‘Is marketing principled?’ After all, a subject matter can have principles in the sense of being codified, having rules, as with football or chess, without being principled in the sense of being ethical. Many of the students immediately assumed that the answer to my question about marketing principles was obvious: no. Just look at the ways in which everything under the sun has been marketed; ==obviously it need not be done in a principled (=ethical) fashion==.
+
+**30**
+
+D Is that obvious? I made the suggestion, which may sound downright crazy in light of the evidence, that perhaps marketing is by definition principled. My inspiration for this judgement is the philosopher Immanuel Kant, who argued that ==any body of knowledge consists of an end (or purpose) and a means==.
+
+**31**
+
+E Let us apply both the terms ‘means’ and ‘end’ to marketing. The students have signed up for a course in order to learn how to market effectively. But to what end? There seem to be two main attitudes toward that question. One is that the answer is obvious: the purpose of marketing is to sell things and to make money. The other attitude is that the purpose of marketing is irrelevant: each person comes to the program and course with his or her own plans, and these need not even concern the acquisition of marketing expertise as such. My proposal, which I believe would also be Kant’s, is that neither of these attitudes captures the significance of the end to the means for marketing. ==A field of knowledge or a professional endeavor is defined by both the means and the end==; hence both deserve scrutiny. Students need to study both how to achieve X, and also what X is.
+
+**32**
+
+F It is at this point that ‘Arson for Profit’ becomes supremely relevant. That course is presumably all about means: how to detect and prosecute criminal activity. It is therefore assumed that the end is good in an ethical sense. When I ask fire science students to articulate the end, or purpose, of their field, they eventually generalize to something like, ‘The safety and welfare of society,’ which seems right. As we have seen, someone could use the very same knowledge of means to achieve a much less noble end, such as personal profit via destructive, dangerous, reckless activity. But we would not call that firefighting. We have a separate word for it: arson. Similarly, if you employed the ‘principles of marketing’ in an unprincipled way, you would not be doing marketing. We have another term for it: fraud. Kant gives the example of a doctor and a poisoner, who use the identical knowledge to achieve their divergent ends. We would say that one is practicing medicine, the other, murder.
+
+### Question 27-32
+
+段落中心匹配；
+
+| main idea                                                  | paragraph |
+| ---------------------------------------------------------- | --------- |
+| Ⅰ. Courses that require a high level of commitment         |           |
+| Ⅱ. A course title with two meanings                        | ~~D~~，C  |
+| Ⅲ. The equal importance of two key issues                  | E         |
+| Ⅳ. Applying a theory in an unexpected context              | ~~C~~，D  |
+| Ⅴ. The financial benefits of studying                      |           |
+| Ⅵ. A surprising course title                               | A         |
+| Ⅶ. Different names for different outcomes                  | F         |
+| Ⅷ. The possibility of attracting the wrong kind of student | B         |
+
+### Question 33-36
+
+No more than two words
+
+**The ‘Arson for Profit’ course**
+
+This is a university course intended for students who are undergraduates and who are studying <u>question 33</u>
+
+The expectation is that they will become <u>question 34</u> specialising in arson. The course will help them to detect cases of arson and find <u>question 35</u> of criminal intent, leading to successful <u>question 36</u> in the courts.
+
+### Question 37-40
+
+判断
+
+37. *It is difficult to attract students onto courses that do not focus on a career.*
+
+38. *The ‘Arson for Profit’ course would be useful for people intending to set fire to buildings.*
+
+39. *Fire science courses are too academic to help people to be good at the job of firefighting.*
+
+40. *The writer’s fire science students provided a detailed definition of the purpose of their studies.* TRUE
+
+### Words and Sentences
+
+* in light of 根据，鉴于...的观点

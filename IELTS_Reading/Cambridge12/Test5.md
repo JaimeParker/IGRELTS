@@ -182,3 +182,5 @@ The expectation is that they will become <u>question 34</u> specialising in arso
 ### Words and Sentences
 
 * in light of 根据，鉴于...的观点
+* prosecution 起诉，诉讼
+* creep 爬行；蔓延

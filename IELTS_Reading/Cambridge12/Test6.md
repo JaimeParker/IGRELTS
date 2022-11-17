@@ -207,3 +207,5 @@ Furthermore, the benefits associated with bilingual experience seem to start ver
 ### Tips
 
 past years到现在，可以算是recent years的变化，不用纠结past属于时间比较久远的，因为也没这个指示
+
+noise就是非语言声音

@@ -36,6 +36,13 @@ The three teams already have their eye on other plants that could be ‘catapult
 
 But Kudla didn’t want to reveal which species were in his team’s sights, because CRISPR has made the process so easy. ‘Any one with the right skills could go to their lab and do this.’ 
 
+### Words
+
+* domesticate 驯化
+* devastation 毁灭，破坏
+* edible 可食用的；食品
+* truss 束，捆
+
 ## Passage 3
 
 **Insight or evolution?** 
@@ -90,6 +97,12 @@ the provenance of the raw material on which the Law of Effect operates is not as
 
 ### Words
 
-* provenance 出处，起源
+### Main Ideas
 
-TODO: Passage2 和 3 需要精读，尤其是3需要分析文章叙述逻辑
+* 第一段明确指出本文的中心论点，即科学发展的贡献中，哪些无闻的先驱者的的经验和努力往往被忽略了；并且提出了传统的观点即智慧在科学成就中占据的重要地位，及其观点：一个完整的想法突然从人的脑中产生
+* 第二段直接指出了第一段最后一句，conventional观点的局限性，指出这种想法极大程度上错误地代表了真是的科学发现过程，以及人类一些其他领域的发现
+* 第三段以爱因斯坦等为例，提出把这些人放在一边，更关注innovation是一个trial and error的过程，但也确实有部分人以卓越的个人能力做出研究
+* 以John Nicholson为例，其研究有错误和失败的地方，但是后人的成功是依仗她的理论的
+* 随机的，任意的，偶然的巧合都可能推动科学的发展
+* 举例论证上文观点
+* ？

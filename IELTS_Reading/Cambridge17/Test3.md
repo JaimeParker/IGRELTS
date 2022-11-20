@@ -91,8 +91,6 @@ In *Building the Skyline*, Jason Barr takes the reader through a detailed histor
 
 Barr begins ==chapter one== by taking the reader on a ‘helicopter time-machine’ ride – giving a fascinating account of how the New York landscape in 1609 might have looked from the sky. He then moves on to a subterranean walking tour of the city, indicating the location of rock and water below the subsoil, before taking the reader back to the surface. His love of the city comes through as he describes various fun facts about the location of the New York residence of early 19th-century vice-president Aaron Burr as well as a number of legends about the city. 
 
-
-
 ==Chapters two and three== take the reader up to the Civil War (1861–1865), with chapter two focusing on the ==early development of land and the implementation of a grid system in 1811==. Chapter three focuses on ==land use before the Civil War==. Both chapters are informative and well researched and set the stage for the economic analysis that comes later in the book. I would have liked Barr to expand upon his claim that existing tenements prevented skyscrapers in certain neighborhoods because ‘likely no skyscraper developer was interested in performing the necessary “slum clearance”’. Later in the book, Barr makes the claim that the depth of bedrock was not a limiting factor for developers, as foundation costs were a small fraction of the cost of development. **At first glance, it is not obvious why slum clearance would be limiting, while more expensive foundations would not. **
 
 
@@ -117,3 +115,4 @@ Appendix:
 
 * a tenement: a multi-occupancy building of any sort, but particularly a run-down apartment building or slum building
 * bedrock: the solid, hard rock in the ground that lies under a loose layer of soil
+

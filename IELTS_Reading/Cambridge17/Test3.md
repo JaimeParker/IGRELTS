@@ -29,6 +29,13 @@ Appendix:
 * marsupial: a mammal, such as a kangaroo, whose young are born incompletely developed and are typically carried and suckled in a pouch on the mother’s belly
 * bounty hunters: people who are paid a reward for killing a wild animal
 
+### Words
+
+* superficial 表面上的；肤浅的
+* carnivorous （动物）食肉的
+* distend 膨胀，扩张
+* pouch 小袋；育儿袋；把...装入袋中
+
 ## Passage 2
 
 **Palm oil** 
@@ -76,7 +83,7 @@ As for the question of ==carbon emissions==, the issue really ==depends on what 
 
 ### Words
 
-* check对应assessment
+* check对应assessment（评估，评定，看法）
 * routine basis对应regular
 * transparency对应open and honest
 
@@ -96,9 +103,7 @@ Barr begins ==chapter one== by taking the reader on a ‘helicopter time-machine
 
 Chapter four focuses on i==mmigration and the location of neighborhoods and tenements== in the late 19th century. Barr identifies four primary immigrant enclaves and analyzes their locations in terms of the amenities available in the area. Most of these enclaves were located on the least valuable land, between the industries located on the waterfront and the wealthy neighborhoods bordering Central Park. 
 
-
 ==Part two== of the book begins with a ==discussion of the economics of skyscraper height==. In chapter five, Barr ==distinguishes between engineering height, economic height, and developer height== — where engineering height is the tallest building that can be safely made at a given time, economic height is the height that is most efficient from society’s point of view, and developer height is the actual height chosen by the developer, who is attempting to maximize return on investment. 
-
 
 ==Chapter five also has an interesting discussion of the technological advances== that led to the construction of skyscrapers. For example, the introduction of iron and steel skeletal frames made thick, load-bearing walls unnecessary, expanding the usable square footage of buildings and increasing the use of windows and availability of natural light. ==Chapter six then presents data on building height throughout the 20th century and uses regression analysis to ‘predict’ building construction==. While less technical than the research paper on which the chapter is based, it is probably more technical than would be preferred by a general audience. 
 
@@ -116,3 +121,4 @@ Appendix:
 * a tenement: a multi-occupancy building of any sort, but particularly a run-down apartment building or slum building
 * bedrock: the solid, hard rock in the ground that lies under a loose layer of soil
 
+整体来说词汇难度不高 但是都有点长，尤其passage 3题目逻辑很绕，但找对地方也很清楚

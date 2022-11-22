@@ -101,3 +101,31 @@ rate（速率，增长或下降）, ratio（指两面的，非黑即白的事情
 
 * by comparison
 * on the other hand
+
+## Key Point 8 句子连接的方法
+
+连接词：
+
+* in contrast
+* on the other hand
+* menwhile
+* in the meantime
+* by comparision
+
+代词this连接：
+
+* This trend was also seen in ...
+* The figure for this country ...
+
+突出趋势的改变或高低的变化：
+
+* a different/the opposite trend/pattern
+* a similiar/the same trend/pattern
+
+连词：
+
+* and
+* while, whereas, but, although
+
+## Key Point 9 罗列数据的方法
+

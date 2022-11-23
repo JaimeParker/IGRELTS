@@ -22,3 +22,5 @@
 * within 10 days 填ten或者10 days都给分，就填10不给分？？？
 * serving point 服务点，类似电子城里面的窗口和食堂里面的窗口（在I16T2S2里指食堂）
 * therapy 疗法（拼写）
+* 日期，填几号的情况下要加th，比如28th而不是28，28不给分
+* garade 拼写

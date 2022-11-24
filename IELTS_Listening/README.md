@@ -24,3 +24,6 @@
 * therapy 疗法（拼写）
 * 日期，填几号的情况下要加th，比如28th而不是28，28不给分
 * garade 拼写
+* not to leave their engines running = not running
+* spice 香料
+

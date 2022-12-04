@@ -129,3 +129,17 @@ rate（速率，增长或下降）, ratio（指两面的，非黑即白的事情
 
 ## Key Point 9 罗列数据的方法
 
+* by，表示幅度，increased by 2%
+* at，主语是对象词时，The figure for resources was highest in 1991, at 20%
+* at，跟在指代的数据后面，North Americca has a lower proportion of degraded land at 5%
+* with，形容很大的数字，Petrol and oil are the dominant fuel sources throughout this period, with 35 quadrillion units used in 1980, rising to 42q in 2012.
+* to，表示增长或下降到多少，By 2004 it has soared to almost 250 grams per person per week
+* （），当主语不是对象词的时候，Europe, with the highest overall percentage of land degrdeed (23%), also suffered from over-cultivation (7.7%) and over-grazing (5.5%)
+
+## Key Point 10 总结段的写法
+
+首先是必须写总结段。
+
+* overall，to summarise， in summary来开头
+* 不要出现任何数据，对所有趋势做总结
+* 不要揣测原因，不要给出建议，就只写数据趋势总结
